@@ -16,8 +16,8 @@ This is a Financial Analysis report to determine whether our company should capi
 ## *Installation Guide*
 
 **First things first:**
-- **[Install and run JupyterLab](https://jupyter.org/install)**
-**Once JupyterLab is installed and you have run it from the terminal, check the version of Python within JupyterLab:**
+- **[Install and run JupyterLab:](https://jupyter.org/install)**
+Once JupyterLab is installed and you have run it from the terminal, check the version of Python within JupyterLab:
 - In a block of code, Import library sys, then type sys.version, you will get your Python version in the output after running the block of code ![Screenshot 2023-04-02 at 3 02 09 PM](https://user-images.githubusercontent.com/123714457/229381333-d8103f06-af51-4b08-b850-51a0b931a598.png)
 **Now to clone this repository so you can open it up in JupyterLab:**
 - **1:** Copy URL of this repo <img width="473" alt="Screenshot 2023-04-02 at 3 18 46 PM" src="https://user-images.githubusercontent.com/123714457/229382137-a8e0a113-8701-4388-8d8b-c6bcc88fa34b.png">
@@ -31,9 +31,10 @@ This is a Financial Analysis report to determine whether our company should capi
 
 ## *Usage*
 
+- To use the program you will simply either run the code from the very top clicking the run button, or you will hit shift+enter on your keyboard if you don't want to click a bunch ![Screenshot 2023-04-02 at 3 38 19 PM](https://user-images.githubusercontent.com/123714457/229382905-d4b4e136-7159-4b5a-b27a-2615f8ef4ab8.png) 
+- **Note:** This is meant to be an analysis for the company. If any potential users/companies would like to switch some of the dates around within the full timestamp to view different visualizations/outcomes please contact the listed contributor. Otherwise, if any potential users/companies are fluent with the language, library, and framework of this code, proceed to play around with it as necessary. 
 
-
-## *Contributors*
+## *Contributor*
 
 - Dylan Johnston
 - Email: dylanhjjohnston@gmail.com
