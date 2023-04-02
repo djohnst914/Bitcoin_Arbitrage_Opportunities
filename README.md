@@ -1,4 +1,4 @@
-# Bitcoin/Crypto Fincancial Analysis - Arbitrage Opportunities
+# Bitcoin/Crypto Fincancial Analysis - Arbitrage Opportunities <img width="215" alt="Screenshot 2023-04-02 at 3 57 51 PM" src="https://user-images.githubusercontent.com/123714457/229383610-7be0e137-bfaa-4e2e-bf6b-7aba3f7e30fa.png">
 
 This is a Financial Analysis report to determine whether our company should capitalize on simultaneous price dislocations in markets across the globe related to Bitcoin and other crypotcurrencies. Two different currencies are used in this report to gain a base line understanding for this decision. Those two currencies are bitstamp and coinbase, with the length of the time series analyis being from January 1st at open to March 31st at close. 
 
