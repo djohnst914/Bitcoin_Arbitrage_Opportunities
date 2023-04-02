@@ -8,14 +8,18 @@ This is a Financial Analysis report to determine whether our company should capi
 
 - **Programming Language:** Python
 - **Libraries:** Pandas, Pathlib, Matplotlib
-- **Framework:** JupyterLab
+- **Framework:** JupyterLab, can also use VS Code
 - **Operating Systems:** Mac OS, Microsoft Windows
 
 ---
 
 ## *Installation Guide*
 
-Before running the program, ensure your operating system has at least version 3.9.13 of Python installed, ensure Visual Studio Code is installed, and ensure Python Fire and Python Questionary are installed. Then, you will clone the repo onto your local computer in VS Code.
+Before running the program, ensure your operating system has Jupyter Lab installed and atleast version 3.7.13 of Python installed as well. Once JupyterLab is installed
+
+- **[Install and run JupyterLab]**(https://jupyter.org/install)
+- Once JupyterLab is installed and you have run it from the terminal, check the version of Python within JupyterLab:
+            1. In a block of code, Import library sys, then type sys.version, you will get your Python version in the output after running the block of code. ![Screenshot 2023-04-02 at 3 02 09 PM](https://user-images.githubusercontent.com/123714457/229381333-d8103f06-af51-4b08-b850-51a0b931a598.png)
 
 
 ---
