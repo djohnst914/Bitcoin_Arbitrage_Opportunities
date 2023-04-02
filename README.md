@@ -17,9 +17,10 @@ This is a Financial Analysis report to determine whether our company should capi
 
 Before running the program, ensure your operating system has Jupyter Lab installed and atleast version 3.7.13 of Python installed as well. Once JupyterLab is installed
 
-- **[Install and run JupyterLab]**(https://jupyter.org/install)
+- **[Install and run JupyterLab](https://jupyter.org/install)**
 - Once JupyterLab is installed and you have run it from the terminal, check the version of Python within JupyterLab:
-            1. In a block of code, Import library sys, then type sys.version, you will get your Python version in the output after running the block of code. ![Screenshot 2023-04-02 at 3 02 09 PM](https://user-images.githubusercontent.com/123714457/229381333-d8103f06-af51-4b08-b850-51a0b931a598.png)
+            1. In a block of code, Import library sys, then type sys.version, you will get your Python version in the output after running the block of code. ![Screenshot 2023-04-02 at 3 02 09 PM](https://user-images.githubusercontent.com/123714457/229381333-d8103f06-af51-4b08-b850-51a0b931a598.png)git 
+- 
 
 
 ---
